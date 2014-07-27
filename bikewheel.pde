@@ -12,7 +12,7 @@ void setup() {
   background(#FFFFFF);
   fill(#FFFFFF, 0);
   size(xSize, ySize);
-  frameRate(5);
+  frameRate(60);
   initialiseWorldChampionshipColors();
 }
 
